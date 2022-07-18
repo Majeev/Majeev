@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on <strong> Portfolio page </strong>
+- 🔭 I’m currently working on <strong> Pokedex </strong>
 - 🌱 I’m currently learning <img alt="Typescript" width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> and <img alt="MaterialUI" width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 - 🥅 2022 Goals: Learn more about <strong> Blockchain </strong> and <img alt="Solidity" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" />
 - 👯 I’m looking for <strong> Front-End Developer </strong> job

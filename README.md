@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on <strong> Pokedex </strong>
-- 🌱 I’m currently learning <img alt="Typescript" width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> and <img alt="MaterialUI" width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+- 🌱 I’m currently learning <img alt="AWS" width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> and <img alt="MaterialUI" width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 - 🥅 2022 Goals: Learn more about <strong> Blockchain </strong> and <img alt="Solidity" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" />
 - 👯 I’m looking for <strong> Front-End Developer </strong> job
 - 📫 How to reach me: Find me on <a href="https://www.linkedin.com/in/jakub-majewski-528553203/"><img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> or send me an <a href="mailto:majewski.j01@gmail.com">e-mail</a>

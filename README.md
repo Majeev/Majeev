@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on <strong> Space Invaders </strong>
+- 🔭 I’m currently working on <strong> Alchemist App </strong>
 - 🌱 I’m currently learning <img alt="AWS" width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> and <img alt="MaterialUI" width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 - 🥅 2022 Goals: Learn more about <strong> Blockchain </strong> and <img alt="Solidity" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" />
 - 👯 I’m looking for <strong> Front-End Developer </strong> job

@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on <strong> Alchemist App </strong>
-- 🌱 I’m currently learning <img alt="AWS" width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> and <img alt="MaterialUI" width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+- 🔭 I’m currently working on <strong> CI/CD Pipeline </strong>
+- 🌱 I’m currently learning <img alt="AWS" width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 - 🥅 2022 Goals: Get <strong> Azure </strong> and <strong> AWS </strong> Certification>
 - 👯 I’m looking for <strong> Junior DevOps </strong> job
 - 📫 How to reach me: Find me on <a href="https://www.linkedin.com/in/jakub-majewski-528553203/"><img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> or send me an <a href="mailto:majewski.j01@gmail.com">e-mail</a>

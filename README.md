@@ -1,4 +1,6 @@
 ### Hi, I am Jakub! 👋
+Check my <a href ="https://majeev.github.io/" target="_blank">Portfolio!</a>
+
 
 ### Github Statistics:
 <img src='https://github-readme-stats.vercel.app/api?username=Majeev&show_icons=true&theme=dracula' />

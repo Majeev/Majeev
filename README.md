@@ -1,5 +1,7 @@
 ### Hi, I am Jakub! 👋
-Check my <a href ="https://majeev.github.io/" target="_blank">Portfolio!</a>
+Check out my <a href ="https://majeev.github.io/" target="_blank">Portfolio!</a>
+
+I am currently looking for a Frontend developer job. Remote or anywhere in Poland!
 
 
 ### Github Statistics:
